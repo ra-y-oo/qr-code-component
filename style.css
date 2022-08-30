@@ -1,0 +1,33 @@
+* {
+  margin: 10px;
+  font-family: 'Poppins', sans-serif;
+  background: #d6e2f0;
+}
+
+.card {
+  border-radius: 20px;
+  background: white;
+  padding: auto;
+  text-align: center;
+  width: 350px;
+  color: #7b879d;
+  margin: 50px auto;
+}
+
+.card .image {
+  border-radius: 20px;
+  width: 20em;
+}
+
+.card .head {
+  background-color: white;
+  padding-top: 20px;
+  color: #1f3251;
+}
+
+.card .content {
+  padding: 20px;
+  background-color: white;
+  font-size: 15px;
+}
+/*# sourceMappingURL=style.css.map */

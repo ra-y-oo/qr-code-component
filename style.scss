@@ -1,0 +1,29 @@
+*{
+    margin: 10px;
+    font-family: 'Poppins', sans-serif;
+    background: hsl(212, 45%, 89%);
+}
+.card{
+    border-radius: 20px;
+    background: white;
+    padding: auto;
+    text-align: center;
+    width: 350px;
+    color: hsl(220, 15%, 55%);
+    margin: 50px auto;
+    .image{
+        border-radius: 20px;
+        width: 20em;
+        
+    }
+    .head{
+        background-color: white;
+        padding-top: 20px;
+        color:  hsl(218, 44%, 22%);
+    }
+    .content{
+        padding: 20px;
+        background-color: white;
+        font-size: 15px;
+    }
+}
